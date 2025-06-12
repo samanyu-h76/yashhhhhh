@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brave-scanner-459706-n9",
+  "private_key_id": "cadefd66218dc8adbb804922b9c2ca5885e108c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfxYauL/fH80jp\nk+0esUAHmCmal/YsiI4CZe2e9qut6tALHwZ+G3I0l9tIzynB3+KQw0UCJC/2X2Wl\nzE6hPbz5jZ8W1qX04E8MshkwTsJo3uTA3A3U5LJaushfmBTxqXoZ1dJG7YaDAg+a\nXm9atrMVgaW2FYZLXqtzGSMypgItzUo5Zbp0OANbIlmdSAz92BzTUqCNQRnkkXI0\n7fOMVxAmGGH3+0j6dh5RiFWKBUfNKLnnlD/wHJ7+dJJCeBqmBcyNpWrecVb1y4+k\njeZFYQSyZvk3Yu5tgu2S8TNflD6/kyt3qURlCbcY0uCE/EHnhcaOkuE4XQIEWRcY\nhcwKlH2xAgMBAAECggEAC7D3lFgm6IxxQcO1A/GdKYZv8kO7xtx4j80HoKyU5CrH\nmINnr+Na7br4V+aY5qVMaKLGskvARWYLrnXkgcCzywsa9h/fkFYNqB8sNVsTYiXV\nVWuE3kGcmi5gKpFFZGhYv/qOjZQkq1eDmXHe8iNmYropockHb7fOEfkSmJ/fOZyr\ndulSjXpfQxHMuEokrxBwE853sWmjG6EmssJYz6ux/ImL6kdBZpQMrM0DT8n1q5DM\npNrDo7VVUqaQ8gwir44vO7L77uvbe+SQPC4pckcpialMKCvM3XyzYc5YDfcJtPra\nQNrXJ9Bajv48FF45/cB8EBH6jLi8taYlEf2YMoBe8QKBgQDUh/L+L8b7HazOJItH\nkDrK590lq7ooxW7H0RmrxY11qtHgwy3cuKRT+36Lo+cqTrLnz9uYXFM3CSBD16Pf\naNRalbvA1TzafRgavkcloZMqmQYG8k5I0I7FNqOj/NvZu7P+Ui2WHLqxDCg+1E2B\nVPEhs1aSk4NjvKXxMpbU0NdqXQKBgQDAcxwkw3CwsEePGMhSIXxpYHW88CdhA0rB\nYmc+rtPoFftxpV/9drbfYFuHDtnefligqXwFvCB4PZQHouAUG+zzPzN5khGSI9Jk\nr2og+FP0yBHTrM2hOHET0TSRM6+s4i0MLBjxNKw1OGEV9WLXonH0tA0jYqREYf00\nBO4wyJMzZQKBgHOzZyfWHr9Kkm7PGjvlWvxnac8+Q+Q6R2rkfNM0gyRR0FxKJUeK\nBXvq6CNhIVG48lCcqfGyIWNOxo/ob0AKs8B0z3fVHoHbpCm6+MSVx6ZjFBLoCpI9\nZ9wZONDnsVBBjWWgm0yja0dDVQ2PSnpkIbm1BiZZxCeh5bz/S3mkEAHJAoGAR1Jh\nu74ypUivPHkSxF1knikBeWQHNAzkR4cQfEqOfhSnexau3GCCpYYwZX07gRmR/vjQ\n3c86uVUY5zuVj95Jklx51zQrDt33uxjHXDCr7Ku475m7G2Svg4ik0qs1D/1CdKBj\nHgFHUPH0CQ9H8mJhmS6hL9v+xNkL3Zt2Kt4qr4ECgYBCIINE+Foq/6YxLlzIFFXN\n1taTrD9Z2BjBUVsQIDUzRwd6CA4/CKeKnX3Ptx1ETJeAL89lWqQbhKptpSiCpIpQ\nPsi40YrdeaaN82+MeMqki3LePXa/dHXSUXBgmUSYGfV09wdIAw1mgLFsVW1pMNuT\nLPrh6kZfcMgA7s5/aAp8hw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-vision-food@brave-scanner-459706-n9.iam.gserviceaccount.com",
+  "client_id": "117101203753137543294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-vision-food%40brave-scanner-459706-n9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
