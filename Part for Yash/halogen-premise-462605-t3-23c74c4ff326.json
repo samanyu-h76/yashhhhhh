@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "halogen-premise-462605-t3",
+  "private_key_id": "23c74c4ff326cdb76ac4ac76d83f8ebf73042420",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCS7hfRU1GZYN90\neeKRmOHbqHkZcehVgH/rKRqt/RDM4oIT8sm/bWdnFGmhq5synCnNaVyRSzCZ0ajY\nxLhtxSVJQlnM2TTRAX53ZL/k8c4Gr8WF66BCrlZYVyjElDWbhtiCDnPsIbaBRdbS\nj7d8eqelClLWZgCmWMlyiHeu99Poqo5bfPnNWpVTxd1dlSbLkefgzr2iFKgXEyS6\nrLthUn/J0OT2vb7VUPpjbysuMWXyPKQLcJf7P060QCtS/uXvPlxjH0wXhAuPqMwC\nv+KuHuCrmS8nsvkMgvW88A4sazXX5yUxohx7EJLfl6esYkhGvXelh4G2CELUpL8d\nwCWIkToPAgMBAAECggEAEqm8i8G2ETHtYEmlHlJZigG11CYUWVv3o6K2eVg2PJge\n5rLFrpOSeVTt7/OwxHZylt1lvSzcUQWBGXuvY34RtOMBLhR+8XdrnXXGLCoMveuw\nvsiFtEKZxCHaE1IyFv3DXY3BasKDgJsi5N8NcvnPdpa/m+0b8wU/HVW5QhfHqnti\nTp0yePyqQwXgAc9w3As5LioDXsL+ObrsY86dOZK0DSRb5lRfup0zXrEn8QgOHHyf\nG9SlsLpIUqhiPXNPRFOSVflg1E8im39ep0gFf5sS8ddnNdzJHS+FkD+MmgrYIp1I\nFQufe2DgWs/RtVCyFvnEgq1y3Al5CyKbgpJLJU8npQKBgQDGMvjAffg+0qo339By\nd6J3m9qlUI8oWmw+WxNboAAgWpfrjIht23hlLqn9NfCgnaPvEfhSNaqoTXM+WXNV\nAeE5T2QqpluaJIX6VYnlGWH/xJ2HVh0IcvrKKFOcdAqExy9RPPI4UtrwO/b4z0fl\nK08b/ptuUNFX4XSwtWRGl7cOhQKBgQC9x4HeXnbLzeiM0m6Pp+cZAycBPtveN6hj\nQK1grAceCzfGDV+Fv28CeTGnvofOEBpy/wsldGUHLowx0c+xGwlQ2dUnQ42PZfCE\nvozL6WHRi0CxizFw6nQFBhmglZkh8akXZs28XPhOtaSyFqzFvafJ9pp4/K0c53tR\nnKjiUglcgwKBgQC+fMC86JUNdBUq7E3/peGdCUrD9cARLY65A3mAZy+X6Nn4BjId\nO4Dj5kx0U0I4bCnhnKjIAlJJvV5Uf04sVkkrdpUztH13kUC/DzUf3hxk4IfySZ5P\nv4ovf0CUrqZpZLKiZmv6HA/WMhu0mCtmIxC+PB8QkFYTG1m2eC+u9SN3rQKBgHCA\nDkqF8SJLw+mG7SeXvvUi20JvwuLuV5HOy3idQfLbb4qmbtPYcbQjp/3qgpLzFNrK\nug7P+vvQ6ia2W8p/XnxhRWxrLUWuhnAKjWhrxyLyy7zz6LEpKvG3dgWt6QMoQLaw\nqJFbA4+VOjagHndyQD8HQvcpwm16A66TkcHoI8iFAoGAVwEohiFXayHvk1D3hGNd\n+WIcXhi96F7Yp1uK9+SpMO3/7IjhtG656dADKQ2+5XhoJ7VmztUb19AYwTf22OEG\nP0hh2pYBYK6Asi73oeOpZxRScdZMFiN4SDBUjZa8NUsR/9RKw1wM6zhORsQcakED\nsU6GxdoOLwjQL4AsX2rvO7w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "restaurant@halogen-premise-462605-t3.iam.gserviceaccount.com",
+  "client_id": "109108467055426880660",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/restaurant%40halogen-premise-462605-t3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
